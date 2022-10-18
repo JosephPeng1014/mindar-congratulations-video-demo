@@ -1,5 +1,5 @@
 
-import $ from "./lib/import-jquery";
+import $ from "../lib/import-jquery";
 
 $("#start-btn").on("click", () => {
   $("#start-modal").hide();
